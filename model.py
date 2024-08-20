@@ -1,6 +1,5 @@
 #pip3 install torch diffusers transformers accelerate peft
 
-token = "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"
 
 from diffusers import AutoPipelineForText2Image
 import torch
